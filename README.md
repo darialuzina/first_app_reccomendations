@@ -1,2 +1,1 @@
-# first_app_reccomendations
-end point for post recommendations
+First end point for post recommendations (10 most liked posts)
